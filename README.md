@@ -5,7 +5,7 @@
 
 Como já tenho um conhecimento prévio em programação, estou aproveitando os cursos para rever os conceitos iniciais. 
 
-Neste primeiro projeto foi necessário criar uma lading page, dsenvolvi ela utilizando o conceito de mobile first.
+Neste primeiro projeto foi necessário criar um portifolio, dsenvolvi ele utilizando o conceito de mobile first.
 
 ![Group 6](https://github.com/colaresAmanda/IC-I-portifolio/assets/83729891/36a31800-ae6f-423b-a9cb-7e99d81932d2)
 
